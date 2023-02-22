@@ -1,15 +1,16 @@
-# Laravel 9 + AdminLTE 3
+# Laravel 10 + AdminLTE 3
 
-AdminLTE 3 for Laravel 9.
+AdminLTE 3 for Laravel 10.
 
 | Laravel Version | Branch |
-|-----------------|--------|
-| 9.0             | main   |
-| 8.0             | 8.x    |
+|:---------------:|:------:|
+| 10              | main   |
+| 9               | 9.x    |
+| 8               | 8.x    |
 
 ## Requirements
 
-- PHP >= 8.0.2
+- PHP >= 8.1.0
 - BCMath PHP Extension
 - Ctype PHP Extension
 - JSON PHP Extension
