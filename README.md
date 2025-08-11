@@ -1,10 +1,11 @@
-# Laravel 11 + AdminLTE 3
+# Laravel 12 + AdminLTE 3
 
-AdminLTE 3 for Laravel 11.
+AdminLTE 3 for Laravel 12.
 
 | Laravel Version | Branch |
 | :-------------: | :----: |
-|       11        |  main  |
+|       12        |  main  |
+|       11        |  11.x  |
 |       10        |  10.x  |
 |        9        |  9.x   |
 |        8        |  8.x   |
